@@ -22,3 +22,7 @@
  $ Pass the wire through inside 
  ```
  
+ 
+  ## Go To:
+ [<img src="http://shaheenhyderk.github.io/ho.png" width="75" height="75">](https://shaheenhyderk.github.io/)
+ [<img src="http://shaheenhyderk.github.io/go.jpg" width="175" height="75">](http://shaheenhyderk.github.io/Laser.github.io/)
