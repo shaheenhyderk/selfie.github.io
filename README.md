@@ -6,15 +6,15 @@
  
  <img src="https://shaheenhyderk.github.io/si.jpg" width="500" height="300">
   
-  #### In cura
+#### In cura
   
  <img src="https://shaheenhyderk.github.io/sc.jpg" width="500" height="300">
  
- #### Final view
+#### Final view
 
  <img src="https://shaheenhyderk.github.io/IMG_20170818_200904[1].jpg" width="500" height="300">
  
- #### What to do next
+#### What to do next
  ```markdown
  $ Fix a small elastick through four small holes
  $ Fix the umbrella stick in the cylindrical shaped hole
@@ -23,7 +23,7 @@
  ```
  
  
- ## Go To:
+## Go To:
  
  [<img src="http://shaheenhyderk.github.io/ho.png" width="75" height="75">](https://shaheenhyderk.github.io/)
  [<img src="http://shaheenhyderk.github.io/go.jpg" width="175" height="75">](http://shaheenhyderk.github.io/Laser.github.io/)
